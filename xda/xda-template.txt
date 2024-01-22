@@ -1,0 +1,71 @@
+[CENTER][IMG]https://raw.githubusercontent.com/Project-Kizashi/OTA/relay/xda/kizashi.png[/IMG]
+[CODE]
+/*
+*Disclaimer
+*
+* Your warranty is now void.
+*
+* We're not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at us for messing up your device, we will laugh at you.
+*/[/CODE][/CENTER]
+
+[B][SIZE=5]Introduction[/SIZE][/B]
+
+Project kizashi is a derivative of LineageOS (LineageOS > Materium UI > Project Kasumi > Project-KIzashi)
+
+[LIST]
+[*][B]Based on LineageOS version: [/B]18.1
+[*][B]Project Kizashi version: [/B]1.0
+[*][B]For device:[/B] Moto G6 (ali)
+[*][B]Maintainer/Authors build:[/B] PrabhatProxy
+[*][B]ProjectKizashi Source Code: [/B] [URL]https://github.com/Project-Kizashi[/URL]
+[*][B]Device tree: [/B] [URL]https://github.com/orgs/Kizashi-Devices/repositories[/URL]
+[*][B]Kernel:[/B] [URL]https://github.com/PrabhatProxy/kernel_motorola_msm8953-proximity[/URL]
+[/LIST]
+
+[B][SIZE=5]Features[/SIZE][/B]
+
+[QUOTE]
+
+[LIST]
+[*]Clean UI
+[*]Compiled With Azure-Clang
+[*]Game Mode
+[*]SafetyNet fix
+[*]Google Photos spoof
+[*]GameSpoof for higher fps
+[*]Many Performance Optimisations
+[*]Uses Zlib-ng
+[*]almost all Proton-Aosp performance tweaks
+[*]OTA Updates
+[*]Much more to explore
+[/LIST]
+[/QUOTE]
+
+[B][SIZE=5]Installation Instructions[/SIZE][/B]
+[LIST]
+[*]Download the Rom zip to your device
+[*]Reboot to your custom recovery
+[*]wipe
+[*]Flash the Rom zip
+[*]Reboot
+[*]Enjoy
+[/LIST]
+
+
+[B][SIZE=4]Device Side Changelog[/SIZE][/B]
+[CODE][/CODE]
+
+[B][SIZE=5]Bugs[/SIZE][/B]
+- You tell me!
+
+[B][SIZE=5]Downloads :- [/SIZE][/B][URL='https://sourceforge.net/projects/project-kizashi/files/ali/'][B][SIZE=5]Flashable Zip[/SIZE][/B][/URL]
+
+[B]Rom Version :[/B] 1.0
+[B]Android Version :[/B] 11
+[B]Kernel Version :[/B] 3.18.140-Proximity
+[B]Security Patch :[/B] January 2024
+[B]Developer :[/B] Prabhat_Proxy
