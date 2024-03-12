@@ -7,7 +7,14 @@
       "romtype": "OFFICIAL",
       "size": "1128703764",
       "url": "https://sourceforge.net/projects/project-kizashi/files/sanders/ProjectKizashi-1.0-Relay-20240302-OFFICIAL-Gapps-sanders.zip",
-      "version": "1.0"
+      "version": "1.0",
+      "name":"G5s+",
+      "manufacturer":"Motorola",
+      "ReleaseYear":2017,
+      "imageURL":"https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g5s-plus-3.jpg",
+      "Maintainer":"Prabhat Maurya",
+      "MaintainerURL":"https://t.me/ProjectKizashi"
+      
     }
   ]
 }

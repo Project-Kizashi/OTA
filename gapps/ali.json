@@ -7,7 +7,13 @@
       "romtype": "OFFICIAL",
       "size": "1126278418",
       "url": "https://sourceforge.net/projects/project-kizashi/files/ali/ProjectKizashi-1.0-Relay-20240122-OFFICIAL-Gapps-ali.zip",
-      "version": "1.0"
+      "version": "1.0",
+      "name":"G6",
+      "manufacturer":"Motorola",
+      "ReleaseYear":2018,
+      "imageURL":"https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g6-2.jpg",
+      "Maintainer":"Prabhat Maurya",
+      "MaintainerURL":"https://t.me/ProjectKizashi"
     }
   ]
 }
